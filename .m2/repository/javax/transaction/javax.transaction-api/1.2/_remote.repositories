@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 23 13:53:09 EST 2018
+javax.transaction-api-1.2.pom>spring-releases=
+javax.transaction-api-1.2.jar>central=
+javax.transaction-api-1.2.pom>central=
+javax.transaction-api-1.2.jar>spring-releases=
